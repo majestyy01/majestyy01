@@ -1,12 +1,5 @@
 # 💫 About Me:
 🤖I actively build robots in the FRC robot competition.<br>🚀I code image processing systems with Python.<br>🌐Writing code for the WEB is my favorite activity.<br>💻I'm doing research on computer systems.
-<br>
-
-[![Discord Presence](https://lanyard.kyrie25.me/api/766229918605508618?waveColor=8B8BFA&waveSpotifyColor=B48EF7&gradient=7E37F9-B48EF7-E568C4&imgStyle=square)](https://discord.com/users/766229918605508618)
-
-
-
-<br>
 
 ## 🌐 Socials:
 [![Discord](https://img.shields.io/badge/Discord-%237289DA.svg?logo=discord&logoColor=white)](https://discord.gg/https://discord.gg/N58r266vsa) [![Instagram](https://img.shields.io/badge/Instagram-%23E4405F.svg?logo=Instagram&logoColor=white)](https://instagram.com/woxicdev) [![Twitter](https://img.shields.io/badge/Twitter-%231DA1F2.svg?logo=Twitter&logoColor=white)](https://twitter.com/TasvanTali) [![YouTube](https://img.shields.io/badge/YouTube-%23FF0000.svg?logo=YouTube&logoColor=white)](https://youtube.com/@engineercenterX) [![Codepen](https://img.shields.io/badge/Codepen-000000?style=for-the-badge&logo=codepen&logoColor=white)](https://codepen.io/Genc_Yazilimci58) 
