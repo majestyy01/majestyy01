@@ -2,7 +2,7 @@
 🤖I actively build robots in the FRC robot competition.<br>🚀I code image processing systems with Python.<br>🌐Writing code for the WEB is my favorite activity.<br>💻I'm doing research on computer systems.
 <br>
 
-[![Discord Presence](https://lanyard.kyrie25.me/api/439120092777938944?waveColor=8B8BFA&waveSpotifyColor=B48EF7&gradient=7E37F9-B48EF7-E568C4&imgStyle=square)](https://discord.com/users/766229918605508618)
+[![Discord Presence](https://lanyard.kyrie25.me/api/766229918605508618?waveColor=8B8BFA&waveSpotifyColor=B48EF7&gradient=7E37F9-B48EF7-E568C4&imgStyle=square)](https://discord.com/users/766229918605508618)
 
 
 
