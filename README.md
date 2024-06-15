@@ -28,7 +28,7 @@
 <a href="https://stackoverflow.com/users/25585254/mert-ali" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/stack-overflow.svg" alt="mert-ali" height="30" width="40" /></a>
 <a href="https://instagram.com/mertt.js_" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/instagram.svg" alt="mertt.js_" height="30" width="40" /></a>
 <a href="https://medium.com/@mrtalikyaa" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/medium.svg" alt="@mrtalikyaa" height="30" width="40" /></a>
-<a href="https://www.youtube.com/c/merttalii58" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/youtube.svg" alt="merttalii58" height="30" width="40" /></a>
+<a href="https://www.youtube.com/channel/UCg4fUYGIqq8Hdapx_gWI62A" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/youtube.svg" alt="merttalii58" height="30" width="40" /></a>
 <a href="https://discord.gg/VPAh3HPU6c" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/discord.svg" alt="VPAh3HPU6c" height="30" width="40" /></a>
 </p>
 
