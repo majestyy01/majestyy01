@@ -9,6 +9,8 @@
 
 <p align="left"> <a href="https://twitter.com/tasvantali" target="blank"><img src="https://img.shields.io/twitter/follow/tasvantali?logo=twitter&style=for-the-badge" alt="tasvantali" /></a> </p>
 
+- 🤖 **I actively build robots in the FRC robot competition.**
+
 - 🔭 I’m currently working on **WEB Projects**
 
 - 👨‍💻 All of my projects are available at [github.com/majestyy01](github.com/majestyy01)
