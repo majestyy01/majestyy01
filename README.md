@@ -40,3 +40,17 @@
 <p>&nbsp;<img align="center" src="https://github-readme-stats.vercel.app/api?username=majestyy01&show_icons=true&locale=en" alt="majestyy01" /></p>
 
 <p><img align="center" src="https://github-readme-streak-stats.herokuapp.com/?user=majestyy01&" alt="majestyy01" /></p>
+
+
+
+
+
+
+
+
+
+
+
+
+
+<p><a href="https://www.buymeacoffee.com/woxicdev"> <img align="left" src="https://cdn.buymeacoffee.com/buttons/v2/default-yellow.png" height="50" width="210" alt="woxicdev" /></a></p><br><br>
